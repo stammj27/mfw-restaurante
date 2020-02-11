@@ -135,3 +135,24 @@ nav.navbar {
     text-shadow: 1px 1px 5px #0a0a0a;
     color: #FFF;
 }
+/* Menu Styles */
+#menu .container{
+    background-image: url(../img/black_linen.png);
+}
+#menu h1 {
+    color: #f8f8f8;
+    font-family: "Lobster", sans-serif;
+    height: 3rem;
+}
+#menu li>a {
+    color: #f8512f;
+    font-family: "Playfair", sans-serif;
+}
+#menu .food{
+    background-color: #fff;
+    font-family: "Playfair", sans-serif;
+}
+#menu h3,
+#menu p {
+    color: #000;
+}
